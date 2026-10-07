@@ -18,7 +18,6 @@
   - Sau đó xuất bản web.
   - Tạo 1 file word, lưu link web cá nhân đã xuất bản thành file: MSSV_web.docx.
   - Trưởng nhóm tạo 1 thư mục trên Google Drive, tổng hợp và nén thực mục, gửi GV
-  - 
 Link Google Drive: [Tại đây](https://drive.google.com/drive/folders/1uZ6R_JT9j6K5dOmCsdiJeS3AtD5C9rsv)
 
 **Bài 4: Quản lý công việc, dùng Google Keep/Notionc**
