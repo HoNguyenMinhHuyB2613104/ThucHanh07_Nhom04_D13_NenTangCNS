@@ -31,3 +31,8 @@ Link Google Keep: [Tại đây](https://keep.google.com/share?tid=true#NOTE/1xTB
   - Thực hành quản lý dự án
   - Lên kế hoạch, phân công nhiệm vụ, theo dõi tiến độ và báo cáo trạng thái dự án.
   - Sử dụng Trello để trực quan hóa các công việc và tiến độ.
+
+**Tiến độ**
+![](Trello.png)
+
+**Link Trello:** [Tại đây](https://trello.com/invite/b/6ac656c06dfb5e7d9c76e998/ATTIf1f76d8efba8af64004edc7d130edda7EE940EE4/tổ-chức-sự-kiện-chao-mừng-sinh-vien-khoa-51)
