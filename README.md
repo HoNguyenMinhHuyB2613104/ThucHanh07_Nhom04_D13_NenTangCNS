@@ -18,4 +18,16 @@
   - Sau đó xuất bản web.
   - Tạo 1 file word, lưu link web cá nhân đã xuất bản thành file: MSSV_web.docx.
   - Trưởng nhóm tạo 1 thư mục trên Google Drive, tổng hợp và nén thực mục, gửi GV
+  - 
 Link Google Drive: [Tại đây](https://drive.google.com/drive/folders/1uZ6R_JT9j6K5dOmCsdiJeS3AtD5C9rsv)
+
+**Bài 4: Quản lý công việc, dùng Google Keep/Notionc**
+
+Link Google Keep: [Tại đây](https://keep.google.com/share?tid=true#NOTE/1xTBc3M7hWAv09DV5AmXQ2e1U7emPpc7rW8Ah_fIBQd3mvKB9omHf5ESOXPbqQQ)
+
+**Bài 5: Quản dự án dựa trên Trello**
+
+**Yêu Cầu**
+  - Thực hành quản lý dự án
+  - Lên kế hoạch, phân công nhiệm vụ, theo dõi tiến độ và báo cáo trạng thái dự án.
+  - Sử dụng Trello để trực quan hóa các công việc và tiến độ.
