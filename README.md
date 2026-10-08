@@ -9,8 +9,8 @@
 
 **Yêu Cầu**
 
-  + **Google Form** để nhập thông tin sinh viên khóa 51: **[Tại đây](https://docs.google.com/forms/d/e/1FAIpQLSdyxr8X6Rpw69cYFI6PoxJxG74E-hhAxQMvzCdMIeE8wHVc_Q/viewform)**
-  + **Google Form** để cho sinh viên khóa 51 đăng ký tối đa 80 sinh viên đi tham quan Công ty TMA ở HCM: **[Tại đây](https://docs.google.com/forms/d/e/1FAIpQLSfoYlK5OiYbDBgRnXfsSlIFx1BHHh7S6lCtXGdIe1UyBnIU4A/viewform)**
+  + **Google Form** để nhập thông tin sinh viên khóa 51: **[Tại đây](https://docs.google.com/forms/d/e/1FAIpQLSdyxr8X6Rpw69cYFI6PoxJxG74E-hhAxQMvzCdMIeE8wHVc_Q/viewform)**  ![](form2.png)
+  + **Google Form** để cho sinh viên khóa 51 đăng ký tối đa 80 sinh viên đi tham quan Công ty TMA ở HCM: **[Tại đây](https://docs.google.com/forms/d/e/1FAIpQLSfoYlK5OiYbDBgRnXfsSlIFx1BHHh7S6lCtXGdIe1UyBnIU4A/viewform)**![](form1.png)
 
 **Bài 3: Ứng dụng tiện ích Google Sites, yêu cầu sáng tạo, các thành viên hợp tác trực tuyến**
 **Yêu Cầu**
